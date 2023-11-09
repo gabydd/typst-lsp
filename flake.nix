@@ -6,11 +6,11 @@
     # fenix follow nixpkgs because nix-community's cachix probably has our toolchain
     # cached, we don't want to unnecessarily build it.
     typst = {
-      url = "github:typst/typst/v0.7.0";
+      url = "github:typst/typst/v0.9.0";
       flake = false;
     };
     typst-fmt = {
-      url = "github:astrale-sharp/typstfmt/8404a15";
+      url = "github:astrale-sharp/typstfmt";
       flake = false;
     };
     flake-utils.url = "github:numtide/flake-utils";

@@ -1,0 +1,2 @@
+"/home/gaby/src/typst-lsp/flake.nix"
+"/home/gaby/src/typst-lsp/.git/COMMIT_EDITMSG"
